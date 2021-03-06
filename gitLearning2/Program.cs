@@ -12,6 +12,7 @@ namespace gitLearning2
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("How is going there?");//1st feature
+            Console.WriteLine("Its 2nd feature");//2nd feature
             Console.ReadKey();
         }
     }
