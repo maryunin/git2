@@ -11,6 +11,7 @@ namespace gitLearning2
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Hi from rdp.");
             Console.ReadKey();
         }
     }
