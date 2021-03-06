@@ -1,0 +1,7 @@
+D:\Learning\git2\gitLearning2\gitLearning2\bin\Debug\gitLearning2.exe.config
+D:\Learning\git2\gitLearning2\gitLearning2\bin\Debug\gitLearning2.exe
+D:\Learning\git2\gitLearning2\gitLearning2\bin\Debug\gitLearning2.pdb
+D:\Learning\git2\gitLearning2\gitLearning2\obj\Debug\gitLearning2.csprojAssemblyReference.cache
+D:\Learning\git2\gitLearning2\gitLearning2\obj\Debug\gitLearning2.csproj.CoreCompileInputs.cache
+D:\Learning\git2\gitLearning2\gitLearning2\obj\Debug\gitLearning2.exe
+D:\Learning\git2\gitLearning2\gitLearning2\obj\Debug\gitLearning2.pdb
