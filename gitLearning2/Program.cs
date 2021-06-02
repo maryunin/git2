@@ -15,6 +15,7 @@ namespace gitLearning2
             Console.WriteLine("feature1 2");
             Console.WriteLine("develop changes 1");
             Console.WriteLine("develop changes 2");
+            Console.WriteLine("develop changes 3");
             Console.WriteLine("feature2 1");
             Console.WriteLine("feature3 1");
             Console.ReadKey();
