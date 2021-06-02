@@ -11,8 +11,9 @@ namespace gitLearning2
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("feature1 1");
+            Console.WriteLine("feature1 2");
             Console.WriteLine("develop changes");
-            Console.WriteLine("feature1");
             Console.ReadKey();
         }
     }
